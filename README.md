@@ -1,0 +1,1 @@
+This etch a sketch project aims to solidify my understanding of html, css, and js by using them together to create a grid of a custom dimension set by the user. When hovering over the grid, each square will change to a random new colour# Random_Colour_Sketch
